@@ -212,7 +212,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**Shebin Jose Jacob**
+**Om**
 
 ## 🔗 Links
 
